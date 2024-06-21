@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="OBJECTS" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m16.92,13.69l.53-3.44h-3.3v-2.23c0-.94.46-1.86,1.94-1.86h1.5v-2.93s-1.36-.23-2.66-.23c-2.72,0-4.49,1.65-4.49,4.63v2.62h-3.02v3.44h3.02v8.31h3.72v-8.31h2.77Z"/>
+</svg>
